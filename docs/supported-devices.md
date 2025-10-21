@@ -275,6 +275,17 @@ Devices:
 - MacBook Pro 16-inch (2024)
 - Mac Studio (2025)
 
+### [M5](https://en.wikipedia.org/wiki/Apple_M5)
+
+The M5 uses a faster 16-core Neural Engine. This is the first M-series chip to include Neural Accelerators in the GPU cores.
+
+Devices:
+
+- iPad Pro 11-inch (2025)
+- iPad Pro 13-inch (2025)
+- MacBook Pro 14-inch (2025)
+- Apple Vision Pro (2025)
+
 ### [A18](https://en.wikipedia.org/wiki/Apple_A18)
 
 The A18 has a 16-core Neural Engine and can perform up to 35 trillion operations per second, similar to its predecessor.
@@ -292,6 +303,24 @@ Devices:
 
 - iPhone 16 Pro (2024)
 - iPhone 16 Pro Max (2024)
+
+### [A19](https://en.wikipedia.org/wiki/Apple_A19)
+
+The A19 has a 16-core Neural Engine, with improved memory bandwidth compared to A18. This is the first Apple Silicon SoC to include Neural Accelerators in the GPU cores.
+
+Devices:
+
+- iPhone 17 (2025)
+
+### [A19 Pro](https://en.wikipedia.org/wiki/Apple_A19)
+
+The A19 Pro has the same 16-core Neural Engine as in the A19.
+
+Devices:
+
+- iPhone Air (2025)
+- iPhone 17 Pro (2025)
+- iPhone 17 Pro Max (2025)
 
 ### [S4](https://en.m.wikipedia.org/wiki/Apple_silicon#Apple_S4)
 
@@ -336,7 +365,7 @@ Devices:
 
 - Apple Watch Series 8 (2022)
 - Apple Watch SE (2nd gen, 2022)
-- Apple Watch Ultra (1st gen, 2022)
+- Apple Watch Ultra (2022)
 
 ### [S9](https://en.wikipedia.org/wiki/Apple_silicon#Apple_S9)
 
@@ -354,6 +383,9 @@ The S10 appears to be identical to the S9, also containing a 4-core Neural Engin
 Devices:
 
 - Apple Watch Series 10 (2024)
+- Apple Watch Series 11 (2025)
+- Apple Watch SE (3rd gen, 2025)
+- Apple Watch Ultra 3 (2025)
 
 ## Recent devices without a Neural Engine
 
