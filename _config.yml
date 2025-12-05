@@ -1,0 +1,27 @@
+title: 'Apple Neural Engine'
+theme: 'just-the-docs'
+
+url: '' # leave blank if hosted on GitHub Pages repo
+
+markdown: kramdown
+
+# Optional but recommended:
+search_enabled: true
+
+# Use a docs collection
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+color_scheme: light_gold
+
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+
+exclude:
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
