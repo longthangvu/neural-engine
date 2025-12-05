@@ -2,6 +2,7 @@ title: 'Apple Neural Engine'
 theme: 'just-the-docs'
 
 url: '' # leave blank if hosted on GitHub Pages repo
+repository: longthangvu/neural-engine
 
 markdown: kramdown
 
